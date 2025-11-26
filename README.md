@@ -251,7 +251,7 @@ This **Document Editor** is a sophisticated console-based application that allow
 
 <div align="center">
 
-### 🏆 Total: 13 Pattern Applications | 11 Unique Patterns | 110/100 Points 🌟
+### 🏆 Total: 13 Pattern Applications | 11 Unique Patterns
 
 </div>
 
