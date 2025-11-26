@@ -1066,20 +1066,6 @@ This project demonstrates mastery of:
 - ✅ Proper exception handling
 - ✅ Resource management (file I/O)
 
----
-
-## 📊 Grading Breakdown
-
-| Component | Points | Status |
-|-----------|--------|--------|
-| Required Patterns (9) | 90 | ✅ Complete |
-| PDF Export Bonus | 5 | ✅ Complete |
-| Cloud Storage Bonus | 5 | ✅ Complete |
-| Documentation | Included | ✅ Complete |
-| Code Quality | Included | ✅ Complete |
-| **Total** | **100 + 10 bonus** | **110/100** 🌟 |
-
----
 
 ## 🛠️ Technical Details
 
@@ -1133,7 +1119,7 @@ While this project is complete for academic requirements, potential extensions c
 <br><br>
 <b>🎓 CPSC7700 - Application Architecture</b><br>
 📍 Governors State University<br>
-📅 Fall 2025 Syam.G<br>
+📅 Fall 2025G<br>
 </td>
 </tr>
 </table>
@@ -1252,7 +1238,7 @@ Fall 2025 Syam.G
 
 ---
 
-<sub>© 2025 Syam Gudipudi - Columbus State University - CPSC7700 Application Architecture</sub>
+<sub>© 2025 Syam Gudipudi - Governors State University - CPSC7700 Application Architecture</sub>
 
 <br>
 
