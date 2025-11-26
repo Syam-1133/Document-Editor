@@ -27,7 +27,7 @@ This **Document Editor** is a sophisticated console-based application that allow
 ```
 📦 38 Java Source Files    🎯 13 Pattern Applications    📄 5 Export Formats
 🏗️ 10 Organized Packages   🎨 11 Unique Patterns         ☁️ Cloud Integration
-⚡ 484KB Lightweight       🔄 Full Undo/Redo Support     🌟 110/100 Grade Target
+⚡ 484KB Lightweight       🔄 Full Undo/Redo Support     
 ```
 
 ### 🎯 Academic Achievement
