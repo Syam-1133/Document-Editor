@@ -5,7 +5,6 @@
 [![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![Design Patterns](https://img.shields.io/badge/Design_Patterns-13-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/Design_Patterns)
 [![Architecture](https://img.shields.io/badge/Architecture-SOLID-00ADD8?style=for-the-badge&logo=blueprint&logoColor=white)](https://en.wikipedia.org/wiki/SOLID)
-[![Grade](https://img.shields.io/badge/Grade-110%2F100-00C851?style=for-the-badge&logo=academia&logoColor=white)](#)
 [![License](https://img.shields.io/badge/License-Academic-FFC107?style=for-the-badge&logo=creative-commons&logoColor=white)](LICENSE)
 
 ### 🎓 CPSC7700 Application Architecture Term Project
