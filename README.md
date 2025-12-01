@@ -669,11 +669,6 @@ DocumentEditor/                          # 📦 PROJECT ROOT
 ├── 📁 out/                                # 🎯 COMPILED OUTPUT
 │   └── com/documenteditor/                #    └─ Compiled .class files
 │
-├── 📁 docs/                               # 📚 DOCUMENTATION (3 files)
-│   ├── DESIGN_PATTERNS_REPORT.md          #    └─ Pattern analysis (890 lines)
-│   ├── UML_CLASS_DIAGRAM.md               #    └─ Architecture diagrams
-│   └── PRESENTATION_GUIDE.md              #    └─ Presentation materials
-│
 ├── 📄 README.md                           # 📖 This file - Project overview
 │
 ├── ⚙️ compile.sh                          # 🐧 Unix/Mac build script
