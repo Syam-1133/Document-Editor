@@ -73,7 +73,7 @@ This **Document Editor** is a sophisticated console-based application that allow
 - **Patterns**: Visitor + Decorator
 - **Feature**: Professional PDF-style exports
 - **Format**: Unicode box-drawing characters
-- **Points**: +5
+
 
 </td>
 <td width="50%">
