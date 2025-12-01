@@ -622,7 +622,7 @@ DocumentEditor/                          # 📦 PROJECT ROOT
 │   ├── 📂 visitor/                        # 🚶 VISITOR PATTERN (3 files)
 │   │   ├── Visitor.java                   #    └─ Visitor interface
 │   │   ├── HTMLExportVisitor.java         #    └─ Export to HTML
-│   │   └── SimplePDFExportVisitor.java    #    └─ Export to PDF [BONUS]
+│   │   └── SimplePDFExportVisitor.java    #    └─ Export to PDF 
 │   │
 │   ├── 📂 command/                        # ⚡ COMMAND PATTERN (4 files)
 │   │   ├── Command.java                   #    └─ Command interface
@@ -658,7 +658,7 @@ DocumentEditor/                          # 📦 PROJECT ROOT
 │   │   ├── AutoSaveObserver.java          #    └─ Auto-save on changes
 │   │   └── ChangeLogObserver.java         #    └─ Logs document changes
 │   │
-│   ├── 📂 cloudstorage/                   # ☁️ ADAPTER + PROXY [BONUS] (3 files)
+│   ├── 📂 cloudstorage/                   # ☁️ ADAPTER + PROXY  (3 files)
 │   │   ├── CloudStorageService.java       #    └─ Target interface
 │   │   ├── MockCloudStorageAdapter.java   #    └─ Adapter (simulates cloud)
 │   │   └── CloudStorageProxy.java         #    └─ Proxy (adds caching)
@@ -675,7 +675,6 @@ DocumentEditor/                          # 📦 PROJECT ROOT
 │   └── PRESENTATION_GUIDE.md              #    └─ Presentation materials
 │
 ├── 📄 README.md                           # 📖 This file - Project overview
-├── 📄 CLASSROOM_DEMO_SCRIPT.md            # 🎬 Live demo instructions
 │
 ├── ⚙️ compile.sh                          # 🐧 Unix/Mac build script
 └── ⚙️ compile.bat                         # 🪟 Windows build script
